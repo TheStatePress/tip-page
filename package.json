@@ -1,0 +1,19 @@
+{
+  "name": "tip-page",
+  "version": "1.0.0",
+  "description": "A webpage that contains information on how to securely submit tips to The State Press",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheStatePress/tip-page.git"
+  },
+  "author": "The State Press",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheStatePress/tip-page/issues"
+  },
+  "homepage": "https://github.com/TheStatePress/tip-page#readme"
+}
